@@ -1,0 +1,24 @@
+{
+  "ids": {
+    "User": 4,
+    "UserCredentials": 4,
+    "SmsCode": 4
+  },
+  "models": {
+    "User": {
+      "f5aaa34b-b213-403d-87d9-a8e12b8091bd": "{\"id\":\"f5aaa34b-b213-403d-87d9-a8e12b8091bd\",\"email\":\"+79002823501@mail.com\",\"phone\":\"+79002823501\",\"code\":\"824156\"}",
+      "b80bbb7c-85d2-479a-b397-bc1f0102d3ec": "{\"id\":\"b80bbb7c-85d2-479a-b397-bc1f0102d3ec\",\"email\":\"+79002823501@mail.com\",\"phone\":\"+79002823501\",\"code\":\"848314\"}",
+      "a0248b4a-477e-4d36-a9cc-eb91836c4f06": "{\"id\":\"a0248b4a-477e-4d36-a9cc-eb91836c4f06\",\"email\":\"+79002823501@mail.com\",\"phone\":\"+79002823501\",\"code\":\"219166\",\"tarrif\":{\"name\":\"Special Unlim Turbo\",\"minutes\":\"UNLIMITED\",\"gigabytes\":\"UNLIMITED*\",\"sms\":5000,\"price\":150000,\"description\":\"UNLIMITED calls within Uzbekistan\\nUNLIMITED* internet traffic\\n5 000 SMS within Uzbekistan\\nMonthly tariff fee: 150 000 soums\\n* The traffic limit for 30 days to all directions is 100 GB at full speed, after the limit provided at full speed, the Internet speed is reduced and set no higher than 128 kb/s.\\nSwap to Special Unlim Turbo tariff *233#\"}}"
+    },
+    "UserCredentials": {
+      "e431565d-3808-4a4c-af8b-27544662348b": "{\"id\":\"e431565d-3808-4a4c-af8b-27544662348b\",\"password\":\"$2a$10$tDzwe.L.GydQuMVI5ngtqeLaMg9KmkwsbnJndSpYHCpE2rAW5aY5C\",\"userId\":\"f5aaa34b-b213-403d-87d9-a8e12b8091bd\"}",
+      "60f7ef74-eb54-4eb9-90ea-568217a3c1eb": "{\"id\":\"60f7ef74-eb54-4eb9-90ea-568217a3c1eb\",\"password\":\"$2a$10$hbohQJ85gKVwZr1Nsga.AeFOh8TXlETQCy.udkDiVGGpYjUUSmxU2\",\"userId\":\"b80bbb7c-85d2-479a-b397-bc1f0102d3ec\"}",
+      "c7277b28-7d15-4a41-9591-37e8d9b45b2d": "{\"id\":\"c7277b28-7d15-4a41-9591-37e8d9b45b2d\",\"password\":\"$2a$10$fnCk1lbZqzC2Nf9xK8Gz9ePaX4/cR2VZIULHLws951Wh8zLhBMZ6W\",\"userId\":\"a0248b4a-477e-4d36-a9cc-eb91836c4f06\"}"
+    },
+    "SmsCode": {
+      "1": "{\"phone\":\"+79002823501\",\"token\":\"636006\",\"secret\":\"HEXUGURUM5NWGNKOF5KEWZDOHA7SQJJOPJSEOMLCHJEEM4J6INXA\",\"id\":1}",
+      "2": "{\"phone\":\"+79002823501\",\"token\":\"271213\",\"secret\":\"H5UGWLDGMRCXGW2RJJKTSZ2OPM5GEXLTMM5CGTBDMNYEMMCULVUQ\",\"id\":2}",
+      "3": "{\"phone\":\"+79002823501\",\"token\":\"723671\",\"secret\":\"IYXDUJCCO5KFGMTBGRKS6P2RGFPGKS3YI5IFEO3LGAZV232HGJMA\",\"id\":3}"
+    }
+  }
+}
